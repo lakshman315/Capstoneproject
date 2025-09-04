@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="8" total="9" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-04T14:27:25 IST" name="Default suite" finished-at="2025-09-04T14:27:29 IST" duration-ms="3692">
+    <groups>
+    </groups>
+    <test started-at="2025-09-04T14:27:25 IST" name="Default test" finished-at="2025-09-04T14:27:29 IST" duration-ms="3692">
+      <class name="Project.NopTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Project.NopTest@16ce702d]" started-at="2025-09-04T14:27:25 IST" name="setUp" finished-at="2025-09-04T14:27:25 IST" duration-ms="596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="comm_poll()[pri:9, instance:Project.NopTest@16ce702d]" started-at="2025-09-04T14:27:26 IST" name="comm_poll" finished-at="2025-09-04T14:27:28 IST" duration-ms="2752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- comm_poll -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Project.NopTest@16ce702d]" started-at="2025-09-04T14:27:28 IST" name="tearDown" finished-at="2025-09-04T14:27:29 IST" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Project.NopTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
